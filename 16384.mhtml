@@ -1,0 +1,1773 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://annimon.github.io/16384/
+Subject: 16384
+Date: Mon, 28 Sep 2020 18:33:55 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----"
+
+
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----
+Content-Type: text/html
+Content-ID: <frame-774C3358354AFCCC90C1D5499CBD47A7@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://annimon.github.io/16384/
+
+<!DOCTYPE html><html class=3D"translated-ltr"><head><meta http-equiv=3D"Con=
+tent-Type" content=3D"text/html; charset=3DUTF-8">
+ =20
+  <title>16384</title>
+
+  <link href=3D"https://annimon.github.io/16384/style/main.css" rel=3D"styl=
+esheet" type=3D"text/css">
+  <link rel=3D"shortcut icon" href=3D"https://annimon.github.io/16384/favic=
+on.ico">
+  <link rel=3D"apple-touch-icon" href=3D"https://annimon.github.io/16384/me=
+ta/apple-touch-icon.png">
+  <meta name=3D"apple-mobile-web-app-capable" content=3D"yes">
+
+  <meta name=3D"HandheldFriendly" content=3D"True">
+  <meta name=3D"MobileOptimized" content=3D"320">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, target-densitydp=
+i=3D160dpi, initial-scale=3D1.0, maximum-scale=3D1, user-scalable=3Dno, min=
+imal-ui">
+
+  <meta property=3D"og:title" content=3D"2048 game">
+  <meta property=3D"og:site_name" content=3D"2048 game">
+  <meta property=3D"og:description" content=3D"Join the numbers and get to =
+the 2048 tile! Careful: this game is extremely addictive!">
+  <meta property=3D"og:image" content=3D"http://gabrielecirulli.github.io/2=
+048/meta/og_image.png">
+<link type=3D"text/css" rel=3D"stylesheet" charset=3D"UTF-8" href=3D"https:=
+//translate.googleapis.com/translate_static/css/translateelement.css"></hea=
+d>
+<body style=3D"">
+  <div class=3D"container">
+    <div class=3D"heading">
+      <h1 class=3D"title"><font style=3D"vertical-align: inherit;"><font st=
+yle=3D"vertical-align: inherit;">16384</font></font></h1>
+      <div class=3D"scores-container">
+        <div class=3D"score-container"><font style=3D"vertical-align: inher=
+it;"><font style=3D"vertical-align: inherit;">205072</font></font></div>
+        <div class=3D"best-container"><font style=3D"vertical-align: inheri=
+t;"><font style=3D"vertical-align: inherit;">205072</font></font></div>
+      </div>
+    </div>
+    <p class=3D"game-intro"><font style=3D"vertical-align: inherit;"><font =
+style=3D"vertical-align: inherit;">Join the numbers and get to the </font><=
+/font><strong><font style=3D"vertical-align: inherit;"><font style=3D"verti=
+cal-align: inherit;">16384 tile!</font></font></strong></p>
+
+    <div class=3D"game-container">
+      <div class=3D"game-message">
+        <p><font style=3D"vertical-align: inherit;"><font style=3D"vertical=
+-align: inherit;">You win!</font></font></p>
+        <div class=3D"lower">
+	        <a class=3D"keep-playing-button"><font style=3D"vertical-align: in=
+herit;"><font style=3D"vertical-align: inherit;">Keep going</font></font></=
+a>
+          <a class=3D"retry-button"><font style=3D"vertical-align: inherit;=
+"><font style=3D"vertical-align: inherit;">Try again</font></font></a>
+          <div class=3D"score-sharing"><iframe id=3D"twitter-widget-1" scro=
+lling=3D"no" frameborder=3D"0" allowtransparency=3D"true" allowfullscreen=
+=3D"true" class=3D"twitter-share-button twitter-share-button-rendered twitt=
+er-tweet-button" style=3D"position: static; visibility: visible; width: 60p=
+x; height: 20px;" title=3D"Twitter Tweet Button" src=3D"cid:frame-E22E454D6=
+00EF563A121BC68BE46AE3D@mhtml.blink"></iframe></div>
+        </div>
+      </div>
+
+      <div class=3D"grid-container">
+        <div class=3D"grid-row">
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+        </div>
+        <div class=3D"grid-row">
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+        </div>
+        <div class=3D"grid-row">
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+        </div>
+        <div class=3D"grid-row">
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+        </div>
+        <div class=3D"grid-row">
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+        </div>
+        <div class=3D"grid-row">
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+        </div>
+        <div class=3D"grid-row">
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+        </div>
+        <div class=3D"grid-row">
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+          <div class=3D"grid-cell"></div>
+        </div>
+      </div>
+
+      <div class=3D"tile-container"><div class=3D"tile tile-2 tile-position=
+-1-3"><div class=3D"tile-inner"><font style=3D"vertical-align: inherit;"><f=
+ont style=3D"vertical-align: inherit;">2</font></font></div></div><div clas=
+s=3D"tile tile-4 tile-position-1-4"><div class=3D"tile-inner"><font style=
+=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">4</f=
+ont></font></div></div><div class=3D"tile tile-16 tile-position-1-5"><div c=
+lass=3D"tile-inner"><font style=3D"vertical-align: inherit;"><font style=3D=
+"vertical-align: inherit;">16</font></font></div></div><div class=3D"tile t=
+ile-8 tile-position-1-6"><div class=3D"tile-inner"><font style=3D"vertical-=
+align: inherit;"><font style=3D"vertical-align: inherit;">8</font></font></=
+div></div><div class=3D"tile tile-512 tile-position-1-7"><div class=3D"tile=
+-inner"><font style=3D"vertical-align: inherit;"><font style=3D"vertical-al=
+ign: inherit;">512</font></font></div></div><div class=3D"tile tile-4 tile-=
+position-1-8"><div class=3D"tile-inner"><font style=3D"vertical-align: inhe=
+rit;"><font style=3D"vertical-align: inherit;">4</font></font></div></div><=
+div class=3D"tile tile-256 tile-position-2-5"><div class=3D"tile-inner"><fo=
+nt style=3D"vertical-align: inherit;"><font style=3D"vertical-align: inheri=
+t;">256</font></font></div></div><div class=3D"tile tile-4 tile-position-2-=
+6"><div class=3D"tile-inner"><font style=3D"vertical-align: inherit;"><font=
+ style=3D"vertical-align: inherit;">4</font></font></div></div><div class=
+=3D"tile tile-16384 tile-position-2-7"><div class=3D"tile-inner"><font styl=
+e=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">163=
+84</font></font></div></div><div class=3D"tile tile-16 tile-position-2-8"><=
+div class=3D"tile-inner"><font style=3D"vertical-align: inherit;"><font sty=
+le=3D"vertical-align: inherit;">16</font></font></div></div><div class=3D"t=
+ile tile-2 tile-position-3-5 tile-new"><div class=3D"tile-inner"><font styl=
+e=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">2</=
+font></font></div></div><div class=3D"tile tile-64 tile-position-3-6"><div =
+class=3D"tile-inner"><font style=3D"vertical-align: inherit;"><font style=
+=3D"vertical-align: inherit;">64</font></font></div></div><div class=3D"til=
+e tile-16 tile-position-3-7"><div class=3D"tile-inner"><font style=3D"verti=
+cal-align: inherit;"><font style=3D"vertical-align: inherit;">16</font></fo=
+nt></div></div><div class=3D"tile tile-8 tile-position-3-8"><div class=3D"t=
+ile-inner"><font style=3D"vertical-align: inherit;"><font style=3D"vertical=
+-align: inherit;">8</font></font></div></div><div class=3D"tile tile-128 ti=
+le-position-4-7"><div class=3D"tile-inner"><font style=3D"vertical-align: i=
+nherit;"><font style=3D"vertical-align: inherit;">128</font></font></div></=
+div><div class=3D"tile tile-32 tile-position-4-8"><div class=3D"tile-inner"=
+><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: in=
+herit;">32</font></font></div></div><div class=3D"tile tile-2 tile-position=
+-5-8"><div class=3D"tile-inner"><font style=3D"vertical-align: inherit;"><f=
+ont style=3D"vertical-align: inherit;">2</font></font></div></div><div clas=
+s=3D"tile tile-4 tile-position-6-8"><div class=3D"tile-inner"><font style=
+=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;">4</f=
+ont></font></div></div></div>
+    </div>
+
+    <p class=3D"game-explanation">
+      <strong class=3D"important"><font style=3D"vertical-align: inherit;">=
+<font style=3D"vertical-align: inherit;">How to play:</font></font></strong=
+><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: in=
+herit;"> Use your </font></font><strong><font style=3D"vertical-align: inhe=
+rit;"><font style=3D"vertical-align: inherit;">arrow keys</font></font></st=
+rong><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align=
+: inherit;"> to move the tiles. When two tiles with the same number touch, =
+they </font></font><strong><font style=3D"vertical-align: inherit;"><font s=
+tyle=3D"vertical-align: inherit;">merge into one!</font></font></strong>
+    </p>
+    <hr>
+    <p>
+    <strong class=3D"important"><font style=3D"vertical-align: inherit;"><f=
+ont style=3D"vertical-align: inherit;">Note:</font></font></strong><font st=
+yle=3D"vertical-align: inherit;"><font style=3D"vertical-align: inherit;"> =
+This site is the official version of 2048. You can play it on your phone vi=
+a </font></font><a href=3D"http://git.io/2048"><font style=3D"vertical-alig=
+n: inherit;"><font style=3D"vertical-align: inherit;">http://git.io/2048.</=
+font></font></a><font style=3D"vertical-align: inherit;"><font style=3D"ver=
+tical-align: inherit;"> All other apps or sites are derivatives or fakes, a=
+nd should be used with caution.
+    </font></font></p>
+    <hr>
+    <p><font style=3D"vertical-align: inherit;"><font style=3D"vertical-ali=
+gn: inherit;">
+    Created by </font></font><a href=3D"http://gabrielecirulli.com/" target=
+=3D"_blank"><font style=3D"vertical-align: inherit;"><font style=3D"vertica=
+l-align: inherit;">Gabriele Cirulli.</font></font></a><font style=3D"vertic=
+al-align: inherit;"><font style=3D"vertical-align: inherit;"> Based on </fo=
+nt></font><a href=3D"https://itunes.apple.com/us/app/1024!/id823499224" tar=
+get=3D"_blank"><font style=3D"vertical-align: inherit;"><font style=3D"vert=
+ical-align: inherit;">1024 by Veewo Studio</font></font></a><font style=3D"=
+vertical-align: inherit;"><font style=3D"vertical-align: inherit;"> and con=
+ceptually similar to </font></font><a href=3D"http://asherv.com/threes/" ta=
+rget=3D"_blank"><font style=3D"vertical-align: inherit;"><font style=3D"ver=
+tical-align: inherit;">Threes by Asher Vollmer.</font></font></a>
+    </p>
+    <div class=3D"sharing">
+      <iframe id=3D"twitter-widget-0" scrolling=3D"no" frameborder=3D"0" al=
+lowtransparency=3D"true" allowfullscreen=3D"true" class=3D"twitter-share-bu=
+tton twitter-share-button-rendered twitter-tweet-button" style=3D"position:=
+ static; visibility: visible; width: 60px; height: 20px;" title=3D"Twitter =
+Tweet Button" src=3D"cid:frame-47FC325F46929EEB226119516E0137BF@mhtml.blink=
+"></iframe>
+     =20
+
+      <form class=3D"pp-donate" action=3D"https://www.paypal.com/cgi-bin/we=
+bscr" method=3D"post" target=3D"_blank">
+       =20
+       =20
+        <button name=3D"submit"><img src=3D"https://annimon.github.io/16384=
+/meta/icon_pp.svg"><font style=3D"vertical-align: inherit;"><font style=3D"=
+vertical-align: inherit;">Donate</font></font></button>
+        <img alt=3D"" border=3D"0" src=3D"https://www.paypalobjects.com/en_=
+US/i/scr/pixel.gif" width=3D"1" height=3D"1">
+      </form>
+
+      <span class=3D"btc-donate">
+        <a href=3D"bitcoin:1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i">
+          <img src=3D"https://annimon.github.io/16384/meta/icon_bitcoin.svg=
+"><font style=3D"vertical-align: inherit;"><font style=3D"vertical-align: i=
+nherit;">Donate BTC
+        </font></font></a>
+        <span class=3D"address"><code>1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i</c=
+ode></span>
+      </span>
+
+    </div>
+  </div>
+
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+
+ =20
+
+
+<div id=3D"goog-gt-tt" class=3D"skiptranslate" dir=3D"ltr"><div style=3D"pa=
+dding: 8px;"><div><div class=3D"logo"><img src=3D"https://www.gstatic.com/i=
+mages/branding/product/1x/translate_24dp.png" width=3D"20" height=3D"20" al=
+t=3D"Google Translate"></div></div></div><div class=3D"top" style=3D"paddin=
+g: 8px; float: left; width: 100%;"><h1 class=3D"title gray">Original text</=
+h1></div><div class=3D"middle" style=3D"padding: 8px;"><div class=3D"origin=
+al-text"></div></div><div class=3D"bottom" style=3D"padding: 8px;"><div cla=
+ss=3D"activity-links"><span class=3D"activity-link">Contribute a better tra=
+nslation</span><span class=3D"activity-link"></span></div><div class=3D"sta=
+rted-activity-container"><hr style=3D"color: #CCC; background-color: #CCC; =
+height: 1px; border: none;"><div class=3D"activity-root"></div></div></div>=
+<div class=3D"status-message" style=3D"display: none;"></div></div><iframe =
+scrolling=3D"no" frameborder=3D"0" allowtransparency=3D"true" src=3D"cid:fr=
+ame-011786CA0F2442F7446A289BA12EEE17@mhtml.blink" title=3D"Twitter settings=
+ iframe" style=3D"display: none;"></iframe><div class=3D"goog-te-spinner-po=
+s"><div class=3D"goog-te-spinner-animation"><svg xmlns=3D"http://www.w3.org=
+/2000/svg" class=3D"goog-te-spinner" width=3D"96px" height=3D"96px" viewBox=
+=3D"0 0 66 66"><circle class=3D"goog-te-spinner-path" fill=3D"none" stroke-=
+width=3D"6" stroke-linecap=3D"round" cx=3D"33" cy=3D"33" r=3D"30"></circle>=
+</svg></div></div></body><dji-cowriter tabindex=3D"-1"><template shadowmode=
+=3D"closed"><div id=3D"dexControlsContainer"><div id=3D"dexControlsContaine=
+rDragSurface"></div><div id=3D"dexControlsContainerBody"><dji-cwu-main-view=
+ id=3D"DJI-CWU-MAIN-VIEW-1601315821263" dji-cwu-hidden=3D"" dji-cwu-mode=3D=
+"type" style=3D"--dji-cwu-opt-suggestion-elem-count:5;">
+            <dji-cwu-main-container>
+                <dji-cwu-tab-view>
+                    <dji-cwu-tab-view-pages>
+                        <dji-cwu-tab-view-page dji-cwu-role=3D"type" dji-cw=
+u-active=3D"">
+                            <dji-cwu-suggestions-pane dji-cwu-role=3D"sugge=
+stions" dji-cwu-active=3D"">
+                                <dji-cwu-guesses-pane dji-cwu-hidden=3D""><=
+/dji-cwu-guesses-pane>
+                                <dji-cwu-translations-pane dji-cwu-hidden=
+=3D"">
+                                    <dji-cwu-icon-hr></dji-cwu-icon-hr>
+                                   =20
+                                </dji-cwu-translations-pane>
+                            </dji-cwu-suggestions-pane>
+                            <dji-cwu-keyboard-pane dji-cwu-role=3D"keyboard=
+">
+                                <dji-cwu-keyboard-key dji-accessible=3D"" d=
+ji-cwu-data=3D"1">1</dji-cwu-keyboard-key>
+                                <dji-cwu-keyboard-key dji-accessible=3D"" d=
+ji-cwu-data=3D"2">2</dji-cwu-keyboard-key>
+                                <dji-cwu-keyboard-key dji-accessible=3D"" d=
+ji-cwu-data=3D"3">3</dji-cwu-keyboard-key>
+                                <dji-cwu-keyboard-key dji-accessible=3D"" d=
+ji-cwu-data=3D"4">4</dji-cwu-keyboard-key>
+                                <dji-cwu-keyboard-key dji-accessible=3D"" d=
+ji-cwu-data=3D"5">5</dji-cwu-keyboard-key>
+                                <dji-cwu-keyboard-key dji-accessible=3D"" d=
+ji-cwu-data=3D"6">6</dji-cwu-keyboard-key>
+                                <dji-cwu-keyboard-key dji-accessible=3D"" d=
+ji-cwu-data=3D"7">7</dji-cwu-keyboard-key>
+                                <dji-cwu-keyboard-key dji-accessible=3D"" d=
+ji-cwu-data=3D"8">8</dji-cwu-keyboard-key>
+                                <dji-cwu-keyboard-key dji-accessible=3D"" d=
+ji-cwu-data=3D"9">9</dji-cwu-keyboard-key>
+                                <dji-cwu-keyboard-key dji-accessible=3D"" d=
+ji-cwu-data=3D"0">0</dji-cwu-keyboard-key>
+                            </dji-cwu-keyboard-pane>
+                            <dji-cwu-toolbar>
+                                <dji-cwu-toolbar-button dji-accessible=3D""=
+ dji-cwu-link-to=3D"suggestions" title=3D"Show guesses" dji-cwu-active=3D""=
+>abc</dji-cwu-toolbar-button>
+                                <dji-cwu-toolbar-button dji-accessible=3D""=
+ dji-cwu-link-to=3D"keyboard" title=3D"Show numeric keyboard">123</dji-cwu-=
+toolbar-button>
+                            </dji-cwu-toolbar>
+                        </dji-cwu-tab-view-page>
+                        <dji-cwu-tab-view-page dji-cwu-role=3D"topics">
+                            <dji-cwu-search-box>
+                                <dji-cwu-search-bar>
+                                    <dji-cwu-icon dji-cwu-src=3D"search" dj=
+i-cwu-shape-round=3D""></dji-cwu-icon>
+                                    <dji-cwu-icon dji-accessible=3D"5" dji-=
+accessible-no-focus=3D"" dji-cwu-src=3D"arrow_back" dji-cwu-role=3D"back" d=
+ji-cwu-shape-round=3D""></dji-cwu-icon>
+                                    <input type=3D"text" dji-accessible=3D"=
+1" dji-accessible-no-focus=3D"" placeholder=3D"Search for topic" dji-cwu-no=
+-prediction=3D"" dji-non-draggable=3D"" dji-dex-ignore-editor=3D"">
+                                    <dji-cwu-icon dji-accessible=3D"2" dji-=
+accessible-no-focus=3D"" dji-cwu-src=3D"mic" dji-cwu-role=3D"start_speak" d=
+ji-cwu-shape-round=3D""></dji-cwu-icon>
+                                    <dji-cwu-icon dji-accessible=3D"3" dji-=
+accessible-no-focus=3D"" dji-cwu-src=3D"mic_off" dji-cwu-role=3D"stop_speak=
+" dji-cwu-shape-round=3D""></dji-cwu-icon>
+                                    <dji-cwu-icon dji-accessible=3D"4" dji-=
+accessible-no-focus=3D"" dji-cwu-src=3D"close" dji-cwu-role=3D"clear" dji-c=
+wu-shape-round=3D""></dji-cwu-icon>
+                                </dji-cwu-search-bar>
+                                <dji-cwu-search-results>
+                                    <dji-cwu-search-results-group dji-cwu-r=
+ole=3D"dji-cwu-local" dji-cwu-icon=3D"bookmark">
+                                        <dji-cwu-topic>American's Cup</dji-=
+cwu-topic>
+                                        <dji-cwu-topic>American Heart Assoc=
+iation</dji-cwu-topic>
+                                        <dji-cwu-topic>American Library Ass=
+ociation</dji-cwu-topic>
+                                        <dji-cwu-topic>America (United Stat=
+es)</dji-cwu-topic>
+                                        <dji-cwu-topic>Amblyseius</dji-cwu-=
+topic>
+                                        <dji-cwu-topic>American's Cup</dji-=
+cwu-topic>
+                                        <dji-cwu-topic>American Heart Assoc=
+iation</dji-cwu-topic>
+                                        <dji-cwu-topic>American Library Ass=
+ociation</dji-cwu-topic>
+                                        <dji-cwu-topic>America (United Stat=
+es)</dji-cwu-topic>
+                                        <dji-cwu-topic>Amblyseius</dji-cwu-=
+topic>
+                                    </dji-cwu-search-results-group>
+                                    <dji-cwu-search-results-group dji-cwu-r=
+ole=3D"dji-cwu-web" dji-cwu-icon=3D"language">
+                                        <dji-cwu-topic>American's Cup</dji-=
+cwu-topic>
+                                        <dji-cwu-topic>American Heart Assoc=
+iation</dji-cwu-topic>
+                                        <dji-cwu-topic>American Library Ass=
+ociation</dji-cwu-topic>
+                                        <dji-cwu-topic>America (United Stat=
+es)</dji-cwu-topic>
+                                        <dji-cwu-topic>Amblyseius</dji-cwu-=
+topic>
+                                        <dji-cwu-topic>American's Cup</dji-=
+cwu-topic>
+                                        <dji-cwu-topic>American Heart Assoc=
+iation</dji-cwu-topic>
+                                        <dji-cwu-topic>American Library Ass=
+ociation</dji-cwu-topic>
+                                        <dji-cwu-topic>America (United Stat=
+es)</dji-cwu-topic>
+                                        <dji-cwu-topic>Amblyseius</dji-cwu-=
+topic>
+                                    </dji-cwu-search-results-group>
+                                    <dji-cwu-info-pane dji-cwu-role=3D"info=
+-no-results">
+                                        <dji-cwu-div dji-cwu-role=3D"messag=
+e">No result found matching</dji-cwu-div>
+                                        <dji-cwu-div dji-cwu-role=3D"name">=
+[pattern]</dji-cwu-div>
+                                    </dji-cwu-info-pane>
+                                    <dji-cwu-info-pane dji-cwu-role=3D"info=
+-update-topics">
+                                        <dji-cwu-div dji-cwu-role=3D"messag=
+e-too-many-active">You may have at most 6 active topics!<br>The new topic c=
+annot be activated!</dji-cwu-div>
+                                        <dji-cwu-div dji-cwu-role=3D"messag=
+e-activate">Please wait while we<br>activate the topic</dji-cwu-div>
+                                        <dji-cwu-div dji-cwu-role=3D"messag=
+e-update">Please wait while we<br>update the topic</dji-cwu-div>
+                                        <dji-cwu-div dji-cwu-role=3D"messag=
+e-create">Please wait while we<br>create the topic</dji-cwu-div>
+                                        <dji-cwu-div dji-cwu-role=3D"name">=
+[topic_name]</dji-cwu-div>
+                                        <dji-cwu-div dji-cwu-role=3D"hint-u=
+pdate-too-many-active">You may have at most 6 active topics!<br>The new top=
+ic will be updated but cannot be activated!</dji-cwu-div>
+                                        <dji-cwu-div dji-cwu-role=3D"hint-c=
+reate-too-many-active">You may have at most 6 active topics!<br>The new top=
+ic will be created but cannot be activated!</dji-cwu-div>
+                                    </dji-cwu-info-pane>
+                                </dji-cwu-search-results>
+                            </dji-cwu-search-box>
+                            <dji-cwu-topics-pane>
+                                <dji-cwu-topic><dji-cwu-label>Albert Einste=
+in</dji-cwu-label><dji-cwu-switch></dji-cwu-switch></dji-cwu-topic>
+                                <dji-cwu-topic><dji-cwu-label>Global Warmin=
+g</dji-cwu-label><dji-cwu-switch></dji-cwu-switch></dji-cwu-topic>
+                                <dji-cwu-topic><dji-cwu-label>William Shake=
+speare</dji-cwu-label><dji-cwu-switch></dji-cwu-switch></dji-cwu-topic>
+                                <dji-cwu-topic><dji-cwu-label>Aquarium Visi=
+t</dji-cwu-label><dji-cwu-switch></dji-cwu-switch></dji-cwu-topic>
+                                <dji-cwu-topic><dji-cwu-label>Compare and C=
+ontrast</dji-cwu-label><dji-cwu-switch></dji-cwu-switch></dji-cwu-topic>
+                                <dji-cwu-topic><dji-cwu-label>Tsunamis &amp=
+; Tidal Waves</dji-cwu-label><dji-cwu-switch></dji-cwu-switch></dji-cwu-top=
+ic>
+                            </dji-cwu-topics-pane>
+                        </dji-cwu-tab-view-page>
+                        <dji-cwu-tab-view-page dji-cwu-role=3D"speech-recog=
+nition">
+                            <dji-cwu-speech-recognition-pane>
+                                <dji-cwu-toolbar>
+                                    <dji-cwu-toolbar-button dji-accessible=
+=3D"" title=3D"English">EN</dji-cwu-toolbar-button>
+                                    <dji-cwu-toolbar-button dji-accessible=
+=3D"" title=3D"Romanian">
+                                        <dji-cwu-span dji-cwu-role=3D"sourc=
+e">RO</dji-cwu-span>
+                                        <dji-cwu-icon dji-cwu-src=3D"chevro=
+n_right"></dji-cwu-icon>
+                                        <dji-cwu-span dji-cwu-role=3D"targe=
+t">EN</dji-cwu-span>
+                                    </dji-cwu-toolbar-button>
+                                </dji-cwu-toolbar>
+                                <dji-cwu-info>Click for speech to text</dji=
+-cwu-info>
+                                <dji-cwu-icon dji-accessible=3D"" dji-cwu-r=
+ole=3D"microphone" dji-cwu-state=3D"idle">mic</dji-cwu-icon>
+                            </dji-cwu-speech-recognition-pane>
+                            <dji-cwu-error-pane>
+                                <dji-cwu-h2>No Connection</dji-cwu-h2>
+                                <dji-cwu-div>Speech recognition is not avai=
+lable offline.</dji-cwu-div>
+                            </dji-cwu-error-pane>
+                        </dji-cwu-tab-view-page>
+                    </dji-cwu-tab-view-pages>
+                    <dji-cwu-tab-view-toolbar>
+                        <dji-cwu-tab-view-toolbar-button dji-cwu-link-to=3D=
+"type" title=3D"Type" dji-accessible=3D"" dji-cwu-active=3D"">
+                            <dji-cwu-icon>create</dji-cwu-icon>
+                            <dji-cwu-label>Type</dji-cwu-label>
+                        </dji-cwu-tab-view-toolbar-button>
+                        <dji-cwu-tab-view-toolbar-button dji-cwu-link-to=3D=
+"topics" title=3D"Manage topics" dji-accessible=3D"">
+                            <dji-cwu-icon>import_contacts</dji-cwu-icon>
+                            <dji-cwu-label>Topics</dji-cwu-label>
+                        </dji-cwu-tab-view-toolbar-button>
+                        <dji-cwu-tab-view-toolbar-button dji-cwu-link-to=3D=
+"speech-recognition" title=3D"Speech-to-text" dji-accessible=3D"">
+                            <dji-cwu-icon>mic</dji-cwu-icon>
+                            <dji-cwu-label>Speak</dji-cwu-label>
+                        </dji-cwu-tab-view-toolbar-button>
+                    </dji-cwu-tab-view-toolbar>
+                </dji-cwu-tab-view>
+            </dji-cwu-main-container>
+        </dji-cwu-main-view></div><div id=3D"dexControlsContainerOverlay"><=
+/div></div><div id=3D"dexControlsContainerMeasurement"><div id=3D"dexContro=
+lsContainerMeasurementDiv"></div></div><div id=3D"__DJI_CWE_MEASUREMENT_WIN=
+DOW_GENERIC"><div id=3D"__DJI_CWE_MEASUREMENT_WINDOW_GENERIC_DIV"></div></d=
+iv></template></dji-cowriter></html>
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://annimon.github.io/16384/style/main.css
+
+@charset "utf-8";
+
+@import url("fonts/clear-sans.css");
+
+html, body { margin: 0px; padding: 0px; background: rgb(250, 248, 239); col=
+or: rgb(119, 110, 101); font-family: "Clear Sans", "Helvetica Neue", Arial,=
+ sans-serif; font-size: 18px; }
+
+body { margin: 80px 0px; }
+
+.heading::after { content: ""; display: block; clear: both; }
+
+h1.title { font-size: 80px; font-weight: bold; margin: 0px; display: block;=
+ float: left; }
+
+@-webkit-keyframes move-up {=20
+  0% { top: 25px; opacity: 1; }
+  100% { top: -50px; opacity: 0; }
+}
+
+@keyframes move-up {=20
+  0% { top: 25px; opacity: 1; }
+  100% { top: -50px; opacity: 0; }
+}
+
+.scores-container { float: right; text-align: right; }
+
+.score-container, .best-container { position: relative; display: inline-blo=
+ck; background: rgb(187, 173, 160); padding: 15px 25px; font-size: 25px; he=
+ight: 25px; line-height: 47px; font-weight: bold; border-radius: 3px; color=
+: white; margin-top: 8px; text-align: center; }
+
+.score-container::after, .best-container::after { position: absolute; width=
+: 100%; top: 10px; left: 0px; text-transform: uppercase; font-size: 13px; l=
+ine-height: 13px; text-align: center; color: rgb(238, 228, 218); }
+
+.score-container .score-addition, .best-container .score-addition { positio=
+n: absolute; right: 30px; font-size: 25px; line-height: 25px; font-weight: =
+bold; color: rgba(119, 110, 101, 0.9); z-index: 100; animation: 600ms ease-=
+in 0s 1 normal both running move-up; }
+
+.score-container::after { content: "Score"; }
+
+.best-container::after { content: "Best"; }
+
+p { margin-top: 0px; margin-bottom: 10px; line-height: 1.65; }
+
+a { color: rgb(119, 110, 101); font-weight: bold; text-decoration: underlin=
+e; cursor: pointer; }
+
+strong.important { text-transform: uppercase; }
+
+hr { border-top: none; border-right: none; border-left: none; border-image:=
+ initial; border-bottom: 1px solid rgb(216, 212, 208); margin-top: 20px; ma=
+rgin-bottom: 30px; }
+
+.container { width: 600px; margin: 0px auto; }
+
+@-webkit-keyframes fade-in {=20
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes fade-in {=20
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.game-container { margin-top: 40px; margin-left: 60px; position: relative; =
+padding: 10px; cursor: default; user-select: none; background: rgb(187, 173=
+, 160); border-radius: 6px; width: 492px; height: 492px; box-sizing: border=
+-box; }
+
+.game-container .game-message { display: none; position: absolute; top: 0px=
+; right: 0px; bottom: 0px; left: 0px; background: rgba(238, 228, 218, 0.5);=
+ z-index: 100; text-align: center; animation: 800ms ease 1200ms 1 normal bo=
+th running fade-in; }
+
+.game-container .game-message p { font-size: 60px; font-weight: bold; heigh=
+t: 60px; line-height: 60px; margin-top: 222px; }
+
+.game-container .game-message .lower { display: block; margin-top: 59px; }
+
+.game-container .game-message a { display: inline-block; background: rgb(14=
+3, 122, 102); border-radius: 3px; padding: 0px 20px; text-decoration: none;=
+ color: rgb(249, 246, 242); height: 40px; line-height: 42px; margin-left: 9=
+px; }
+
+.game-container .game-message a.keep-playing-button { display: none; }
+
+.game-container .game-message .score-sharing { display: inline-block; verti=
+cal-align: middle; margin-left: 10px; }
+
+.game-container .game-message.game-won { background: rgba(237, 194, 46, 0.5=
+); color: rgb(249, 246, 242); }
+
+.game-container .game-message.game-won a.keep-playing-button { display: inl=
+ine-block; }
+
+.game-container .game-message.game-won, .game-container .game-message.game-=
+over { display: block; }
+
+.grid-container { position: absolute; z-index: 1; }
+
+.grid-row { margin-bottom: 6.7px; }
+
+.grid-row:last-child { margin-bottom: 0px; }
+
+.grid-row::after { content: ""; display: block; clear: both; }
+
+.grid-cell { width: 53.25px; height: 53.25px; margin-right: 6.7px; float: l=
+eft; border-radius: 3px; background: rgba(238, 228, 218, 0.35); }
+
+.grid-cell:last-child { margin-right: 0px; }
+
+.tile-container { position: absolute; z-index: 2; }
+
+.tile, .tile .tile-inner { width: 52.25px; height: 52.25px; line-height: 56=
+.25px; }
+
+.tile.tile-position-1-1 { transform: translate(0px, 0px); }
+
+.tile.tile-position-1-2 { transform: translate(0px, 60px); }
+
+.tile.tile-position-1-3 { transform: translate(0px, 120px); }
+
+.tile.tile-position-1-4 { transform: translate(0px, 180px); }
+
+.tile.tile-position-1-5 { transform: translate(0px, 240px); }
+
+.tile.tile-position-1-6 { transform: translate(0px, 300px); }
+
+.tile.tile-position-1-7 { transform: translate(0px, 360px); }
+
+.tile.tile-position-1-8 { transform: translate(0px, 420px); }
+
+.tile.tile-position-2-1 { transform: translate(60px, 0px); }
+
+.tile.tile-position-2-2 { transform: translate(60px, 60px); }
+
+.tile.tile-position-2-3 { transform: translate(60px, 120px); }
+
+.tile.tile-position-2-4 { transform: translate(60px, 180px); }
+
+.tile.tile-position-2-5 { transform: translate(60px, 240px); }
+
+.tile.tile-position-2-6 { transform: translate(60px, 300px); }
+
+.tile.tile-position-2-7 { transform: translate(60px, 360px); }
+
+.tile.tile-position-2-8 { transform: translate(60px, 420px); }
+
+.tile.tile-position-3-1 { transform: translate(120px, 0px); }
+
+.tile.tile-position-3-2 { transform: translate(120px, 60px); }
+
+.tile.tile-position-3-3 { transform: translate(120px, 120px); }
+
+.tile.tile-position-3-4 { transform: translate(120px, 180px); }
+
+.tile.tile-position-3-5 { transform: translate(120px, 240px); }
+
+.tile.tile-position-3-6 { transform: translate(120px, 300px); }
+
+.tile.tile-position-3-7 { transform: translate(120px, 360px); }
+
+.tile.tile-position-3-8 { transform: translate(120px, 420px); }
+
+.tile.tile-position-4-1 { transform: translate(180px, 0px); }
+
+.tile.tile-position-4-2 { transform: translate(180px, 60px); }
+
+.tile.tile-position-4-3 { transform: translate(180px, 120px); }
+
+.tile.tile-position-4-4 { transform: translate(180px, 180px); }
+
+.tile.tile-position-4-5 { transform: translate(180px, 240px); }
+
+.tile.tile-position-4-6 { transform: translate(180px, 300px); }
+
+.tile.tile-position-4-7 { transform: translate(180px, 360px); }
+
+.tile.tile-position-4-8 { transform: translate(180px, 420px); }
+
+.tile.tile-position-5-1 { transform: translate(240px, 0px); }
+
+.tile.tile-position-5-2 { transform: translate(240px, 60px); }
+
+.tile.tile-position-5-3 { transform: translate(240px, 120px); }
+
+.tile.tile-position-5-4 { transform: translate(240px, 180px); }
+
+.tile.tile-position-5-5 { transform: translate(240px, 240px); }
+
+.tile.tile-position-5-6 { transform: translate(240px, 300px); }
+
+.tile.tile-position-5-7 { transform: translate(240px, 360px); }
+
+.tile.tile-position-5-8 { transform: translate(240px, 420px); }
+
+.tile.tile-position-6-1 { transform: translate(300px, 0px); }
+
+.tile.tile-position-6-2 { transform: translate(300px, 60px); }
+
+.tile.tile-position-6-3 { transform: translate(300px, 120px); }
+
+.tile.tile-position-6-4 { transform: translate(300px, 180px); }
+
+.tile.tile-position-6-5 { transform: translate(300px, 240px); }
+
+.tile.tile-position-6-6 { transform: translate(300px, 300px); }
+
+.tile.tile-position-6-7 { transform: translate(300px, 360px); }
+
+.tile.tile-position-6-8 { transform: translate(300px, 420px); }
+
+.tile.tile-position-7-1 { transform: translate(360px, 0px); }
+
+.tile.tile-position-7-2 { transform: translate(360px, 60px); }
+
+.tile.tile-position-7-3 { transform: translate(360px, 120px); }
+
+.tile.tile-position-7-4 { transform: translate(360px, 180px); }
+
+.tile.tile-position-7-5 { transform: translate(360px, 240px); }
+
+.tile.tile-position-7-6 { transform: translate(360px, 300px); }
+
+.tile.tile-position-7-7 { transform: translate(360px, 360px); }
+
+.tile.tile-position-7-8 { transform: translate(360px, 420px); }
+
+.tile.tile-position-8-1 { transform: translate(420px, 0px); }
+
+.tile.tile-position-8-2 { transform: translate(420px, 60px); }
+
+.tile.tile-position-8-3 { transform: translate(420px, 120px); }
+
+.tile.tile-position-8-4 { transform: translate(420px, 180px); }
+
+.tile.tile-position-8-5 { transform: translate(420px, 240px); }
+
+.tile.tile-position-8-6 { transform: translate(420px, 300px); }
+
+.tile.tile-position-8-7 { transform: translate(420px, 360px); }
+
+.tile.tile-position-8-8 { transform: translate(420px, 420px); }
+
+.tile { position: absolute; transition: transform 100ms ease-in-out 0s; }
+
+.tile .tile-inner { border-radius: 3px; background: rgb(238, 228, 218); tex=
+t-align: center; font-weight: bold; z-index: 10; font-size: 30px; }
+
+.tile.tile-2 .tile-inner { background: rgb(238, 228, 218); box-shadow: rgba=
+(243, 215, 116, 0) 0px 0px 30px 10px, rgba(255, 255, 255, 0) 0px 0px 0px 1p=
+x inset; }
+
+.tile.tile-4 .tile-inner { background: rgb(237, 224, 200); box-shadow: rgba=
+(243, 215, 116, 0) 0px 0px 30px 10px, rgba(255, 255, 255, 0) 0px 0px 0px 1p=
+x inset; }
+
+.tile.tile-8 .tile-inner { color: rgb(249, 246, 242); background: rgb(242, =
+177, 121); }
+
+.tile.tile-16 .tile-inner { color: rgb(249, 246, 242); background: rgb(245,=
+ 149, 99); }
+
+.tile.tile-32 .tile-inner { color: rgb(249, 246, 242); background: rgb(246,=
+ 124, 95); }
+
+.tile.tile-64 .tile-inner { color: rgb(249, 246, 242); background: rgb(246,=
+ 94, 59); }
+
+.tile.tile-128 .tile-inner { color: rgb(249, 246, 242); background: rgb(237=
+, 207, 114); font-size: 27px; }
+
+.tile.tile-256 .tile-inner { color: rgb(249, 246, 242); background: rgb(237=
+, 204, 97); font-size: 27px; }
+
+.tile.tile-512 .tile-inner { color: rgb(249, 246, 242); background: rgb(237=
+, 200, 80); font-size: 25px; }
+
+.tile.tile-1024 .tile-inner { color: rgb(249, 246, 242); background: rgb(23=
+7, 197, 63); box-shadow: rgba(243, 215, 116, 0.24) 0px 0px 30px 10px, rgba(=
+255, 255, 255, 0.14) 0px 0px 0px 1px inset; font-size: 18px; }
+
+.tile.tile-2048 .tile-inner { color: rgb(249, 246, 242); background: rgb(23=
+7, 194, 46); box-shadow: rgba(243, 215, 116, 0.318) 0px 0px 30px 10px, rgba=
+(255, 255, 255, 0.192) 0px 0px 0px 1px inset; font-size: 18px; }
+
+.tile.tile-4096 .tile-inner { color: rgb(249, 246, 242); background: rgb(11=
+9, 161, 54); box-shadow: rgba(243, 215, 116, 0.396) 0px 0px 30px 10px, rgba=
+(255, 255, 255, 0.24) 0px 0px 0px 1px inset; font-size: 18px; }
+
+.tile.tile-8192 .tile-inner { color: rgb(249, 246, 242); background: rgb(45=
+, 179, 136); box-shadow: rgba(243, 215, 116, 0.475) 0px 0px 30px 10px, rgba=
+(255, 255, 255, 0.286) 0px 0px 0px 1px inset; font-size: 18px; }
+
+.tile.tile-16384 .tile-inner { color: rgb(249, 246, 242); background: rgb(4=
+5, 131, 179); box-shadow: rgba(243, 215, 116, 0.557) 0px 0px 30px 10px, rgb=
+a(255, 255, 255, 0.333) 0px 0px 0px 1px inset; font-size: 16px; }
+
+.tile.tile-super .tile-inner { color: rgb(249, 246, 242); background: rgb(6=
+0, 58, 50); font-size: 16px; }
+
+@-webkit-keyframes appear {=20
+  0% { opacity: 0; transform: scale(0); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+@keyframes appear {=20
+  0% { opacity: 0; transform: scale(0); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+.tile-new .tile-inner { animation: 200ms ease 100ms 1 normal backwards runn=
+ing appear; }
+
+@-webkit-keyframes pop {=20
+  0% { transform: scale(0); }
+  50% { transform: scale(1.2); }
+  100% { transform: scale(1); }
+}
+
+@keyframes pop {=20
+  0% { transform: scale(0); }
+  50% { transform: scale(1.2); }
+  100% { transform: scale(1); }
+}
+
+.tile-merged .tile-inner { z-index: 20; animation: 200ms ease 100ms 1 norma=
+l backwards running pop; }
+
+.game-intro { margin-bottom: 0px; }
+
+.game-explanation { margin-top: 50px; }
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://annimon.github.io/16384/style/fonts/clear-sans.css
+
+@charset "utf-8";
+
+@font-face { font-family: "Clear Sans"; src: url("ClearSans-Light-webfont.e=
+ot?#iefix") format("embedded-opentype"), url("ClearSans-Light-webfont.svg#c=
+lear_sans_lightregular") format("svg"), url("ClearSans-Light-webfont.woff")=
+ format("woff"); font-weight: 200; font-style: normal; }
+
+@font-face { font-family: "Clear Sans"; src: url("ClearSans-Regular-webfont=
+.eot?#iefix") format("embedded-opentype"), url("ClearSans-Regular-webfont.s=
+vg#clear_sansregular") format("svg"), url("ClearSans-Regular-webfont.woff")=
+ format("woff"); font-weight: normal; font-style: normal; }
+
+@font-face { font-family: "Clear Sans"; src: url("ClearSans-Bold-webfont.eo=
+t?#iefix") format("embedded-opentype"), url("ClearSans-Bold-webfont.svg#cle=
+ar_sansbold") format("svg"), url("ClearSans-Bold-webfont.woff") format("wof=
+f"); font-weight: 700; font-style: normal; }
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://translate.googleapis.com/translate_static/css/translateelement.css
+
+@charset "utf-8";
+
+.goog-te-banner-frame { left: 0px; top: 0px; height: 39px; width: 100%; z-i=
+ndex: 10000001; position: fixed; border-top: none; border-right: none; bord=
+er-left: none; border-image: initial; border-bottom: 1px solid rgb(107, 144=
+, 218); margin: 0px; box-shadow: rgb(153, 153, 153) 0px 0px 8px 1px; }
+
+.goog-te-menu-frame { z-index: 10000002; position: fixed; border: none; box=
+-shadow: rgb(153, 153, 153) 0px 3px 8px 2px; }
+
+.goog-te-ftab-frame { z-index: 10000000; border: none; margin: 0px; }
+
+.goog-te-gadget { font-family: arial; font-size: 11px; color: rgb(102, 102,=
+ 102); white-space: nowrap; }
+
+.goog-te-gadget img { vertical-align: middle; border: none; }
+
+.goog-te-gadget-simple { background-color: rgb(255, 255, 255); border-width=
+: 1px; border-style: solid; border-color: rgb(155, 155, 155) rgb(213, 213, =
+213) rgb(232, 232, 232); font-size: 10pt; display: inline-block; padding-to=
+p: 1px; padding-bottom: 2px; cursor: pointer; zoom: 1; }
+
+.goog-te-gadget-icon { margin-left: 2px; margin-right: 2px; width: 19px; he=
+ight: 19px; border: none; vertical-align: middle; }
+
+.goog-te-combo { margin-left: 4px; margin-right: 4px; vertical-align: basel=
+ine; }
+
+.goog-te-gadget .goog-te-combo { margin: 4px 0px; }
+
+.goog-logo-link, .goog-logo-link:link, .goog-logo-link:visited, .goog-logo-=
+link:hover, .goog-logo-link:active { font-size: 12px; font-weight: bold; co=
+lor: rgb(68, 68, 68); text-decoration: none; }
+
+.goog-te-banner .goog-logo-link, .goog-close-link { display: block; margin:=
+ 0px 10px; }
+
+.goog-te-banner .goog-logo-link { padding-top: 2px; padding-left: 4px; }
+
+.goog-te-combo, .goog-te-banner *, .goog-te-ftab *, .goog-te-menu *, .goog-=
+te-menu2 *, .goog-te-balloon * { font-family: arial; font-size: 10pt; }
+
+.goog-te-banner { margin: 0px; background-color: rgb(228, 239, 251); overfl=
+ow: hidden; }
+
+.goog-te-banner img { border: none; }
+
+.goog-te-banner-content { color: rgb(0, 0, 0); }
+
+.goog-te-banner-content img { vertical-align: middle; }
+
+.goog-te-banner-info { color: rgb(102, 102, 102); vertical-align: top; marg=
+in-top: 0px; font-size: 7pt; }
+
+.goog-te-banner-margin { width: 8px; }
+
+.goog-te-button { border-color: rgb(231, 231, 231); border-style: none soli=
+d solid none; border-width: 0px 1px 1px 0px; }
+
+.goog-te-button div { border-color: rgb(204, 204, 204) rgb(153, 153, 153) r=
+gb(153, 153, 153) rgb(204, 204, 204); border-style: solid; border-width: 1p=
+x; height: 20px; }
+
+.goog-te-button button { background: transparent; border: none; cursor: poi=
+nter; height: 20px; overflow: hidden; margin: 0px; vertical-align: top; whi=
+te-space: nowrap; }
+
+.goog-te-button button:active { background: none 0px 0px repeat scroll rgb(=
+204, 204, 204); }
+
+.goog-te-ftab { margin: 0px; background-color: rgb(255, 255, 255); white-sp=
+ace: nowrap; }
+
+.goog-te-ftab-link { text-decoration: none; font-weight: bold; font-size: 1=
+0pt; border: 1px outset rgb(136, 136, 136); padding: 6px 10px; white-space:=
+ nowrap; position: absolute; left: 0px; top: 0px; }
+
+.goog-te-ftab-link img { margin-left: 2px; margin-right: 2px; width: 19px; =
+height: 19px; border: none; vertical-align: middle; }
+
+.goog-te-ftab-link span { text-decoration: underline; margin-left: 2px; mar=
+gin-right: 2px; vertical-align: middle; }
+
+.goog-float-top .goog-te-ftab-link { padding: 2px; border-top-width: 0px; }
+
+.goog-float-bottom .goog-te-ftab-link { padding: 2px; border-bottom-width: =
+0px; }
+
+.goog-te-menu-value { text-decoration: none; color: rgb(0, 0, 204); white-s=
+pace: nowrap; margin-left: 4px; margin-right: 4px; }
+
+.goog-te-menu-value span { text-decoration: underline; }
+
+.goog-te-menu-value img { margin-left: 2px; margin-right: 2px; }
+
+.goog-te-gadget-simple .goog-te-menu-value { color: rgb(0, 0, 0); }
+
+.goog-te-gadget-simple .goog-te-menu-value span { text-decoration: none; }
+
+.goog-te-menu { background-color: rgb(255, 255, 255); text-decoration: none=
+; border: 2px solid rgb(195, 217, 255); overflow: hidden scroll; position: =
+absolute; left: 0px; top: 0px; }
+
+.goog-te-menu-item { padding: 3px; text-decoration: none; }
+
+.goog-te-menu-item, .goog-te-menu-item:link { color: rgb(0, 0, 204); backgr=
+ound: rgb(255, 255, 255); }
+
+.goog-te-menu-item:visited { color: rgb(85, 26, 139); }
+
+.goog-te-menu-item:hover { background: rgb(195, 217, 255); }
+
+.goog-te-menu-item:active { color: rgb(0, 0, 204); }
+
+.goog-te-menu2 { background-color: rgb(255, 255, 255); text-decoration: non=
+e; border: 1px solid rgb(107, 144, 218); overflow: hidden; padding: 4px; }
+
+.goog-te-menu2-colpad { width: 16px; }
+
+.goog-te-menu2-separator { margin: 6px 0px; height: 1px; background-color: =
+rgb(170, 170, 170); overflow: hidden; }
+
+.goog-te-menu2-item div, .goog-te-menu2-item-selected div { padding: 4px; }
+
+.goog-te-menu2-item .indicator { display: none; }
+
+.goog-te-menu2-item-selected .indicator { }
+
+.goog-te-menu2-item-selected .text { padding-left: 4px; padding-right: 4px;=
+ }
+
+.goog-te-menu2-item, .goog-te-menu2-item-selected { text-decoration: none; =
+}
+
+.goog-te-menu2-item div, .goog-te-menu2-item:link div, .goog-te-menu2-item:=
+visited div, .goog-te-menu2-item:active div { color: rgb(0, 0, 204); backgr=
+ound: rgb(255, 255, 255); }
+
+.goog-te-menu2-item:hover div { color: rgb(255, 255, 255); background: rgb(=
+51, 102, 204); }
+
+.goog-te-menu2-item-selected div, .goog-te-menu2-item-selected:link div, .g=
+oog-te-menu2-item-selected:visited div, .goog-te-menu2-item-selected:hover =
+div, .goog-te-menu2-item-selected:active div { color: rgb(0, 0, 0); font-we=
+ight: bold; }
+
+.goog-te-balloon { background-color: rgb(255, 255, 255); overflow: hidden; =
+padding: 8px; border: none; border-radius: 10px; }
+
+.goog-te-balloon-frame { background-color: rgb(255, 255, 255); border: 1px =
+solid rgb(107, 144, 218); box-shadow: rgb(153, 153, 153) 0px 3px 8px 2px; b=
+order-radius: 8px; }
+
+.goog-te-balloon img { border: none; }
+
+.goog-te-balloon-text { margin-top: 6px; }
+
+.goog-te-balloon-zippy { margin-top: 6px; white-space: nowrap; }
+
+.goog-te-balloon-zippy * { vertical-align: middle; }
+
+.goog-te-balloon-zippy .minus { background-image: url("//www.google.com/ima=
+ges/zippy_minus_sm.gif"); }
+
+.goog-te-balloon-zippy .plus { background-image: url("//www.google.com/imag=
+es/zippy_plus_sm.gif"); }
+
+.goog-te-balloon-zippy span { color: rgb(0, 0, 204); text-decoration: under=
+line; cursor: pointer; margin: 0px 4px; }
+
+.goog-te-balloon-form { margin: 6px 0px 0px; }
+
+.goog-te-balloon-form form { margin: 0px; }
+
+.goog-te-balloon-form form textarea { margin-bottom: 4px; width: 100%; }
+
+.goog-te-balloon-footer { margin: 6px 0px 4px; }
+
+.goog-te-spinner-pos { z-index: 1000; position: fixed; transition-delay: 0.=
+6s; left: -1000px; top: -1000px; }
+
+.goog-te-spinner-animation { display: flex; align-items: center; justify-co=
+ntent: center; width: 104px; height: 104px; border-radius: 50px; background=
+: url("//www.gstatic.com/images/branding/product/2x/translate_24dp.png") 50=
+% 50% no-repeat rgb(255, 255, 255); transition: all 0.6s ease-in-out 0s; tr=
+ansform: scale(0.4); opacity: 0; }
+
+.goog-te-spinner-animation-show { transform: scale(0.5); opacity: 1; }
+
+.goog-te-spinner { margin: 2px 0px 0px 2px; animation: 1.4s linear 0s infin=
+ite normal none running goog-te-spinner-rotator; }
+
+@keyframes goog-te-spinner-rotator {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(270deg); }
+}
+
+.goog-te-spinner-path { stroke-dasharray: 187; stroke-dashoffset: 0; stroke=
+: rgb(66, 133, 244); transform-origin: center center; animation: 1.4s ease-=
+in-out 0s infinite normal none running goog-te-spinner-dash; }
+
+@keyframes goog-te-spinner-dash {=20
+  0% { stroke-dashoffset: 187; }
+  50% { stroke-dashoffset: 46.75; transform: rotate(135deg); }
+  100% { stroke-dashoffset: 187; transform: rotate(450deg); }
+}
+
+#goog-gt-tt html, #goog-gt-tt body, #goog-gt-tt div, #goog-gt-tt span, #goo=
+g-gt-tt iframe, #goog-gt-tt h1, #goog-gt-tt h2, #goog-gt-tt h3, #goog-gt-tt=
+ h4, #goog-gt-tt h5, #goog-gt-tt h6, #goog-gt-tt p, #goog-gt-tt a, #goog-gt=
+-tt img, #goog-gt-tt ol, #goog-gt-tt ul, #goog-gt-tt li, #goog-gt-tt table,=
+ #goog-gt-tt form, #goog-gt-tt tbody, #goog-gt-tt tr, #goog-gt-tt td { marg=
+in: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inhe=
+rit; font-weight: inherit; font-stretch: inherit; font-size: inherit; font-=
+family: inherit; vertical-align: baseline; text-align: left; line-height: n=
+ormal; }
+
+#goog-gt-tt ol, #goog-gt-tt ul { list-style: none; }
+
+#goog-gt-tt table { border-collapse: collapse; border-spacing: 0px; }
+
+#goog-gt-tt caption, #goog-gt-tt th, #goog-gt-tt td { text-align: left; fon=
+t-weight: normal; }
+
+div#goog-gt-tt { padding: 10px 14px; }
+
+#goog-gt-tt { color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);=
+ border: 1px solid rgb(238, 238, 238); box-shadow: rgba(0, 0, 0, 0.2) 0px 4=
+px 16px; display: none; font-family: arial; font-size: 10pt; width: 420px; =
+padding: 12px; position: absolute; z-index: 10000; }
+
+#goog-gt-tt .original-text, .gt-hl-layer { clear: both; font-size: 10pt; po=
+sition: relative; text-align: justify; width: 100%; }
+
+#goog-gt-tt .title { color: rgb(153, 153, 153); font-family: arial, sans-se=
+rif; margin: 4px 0px; text-align: left; }
+
+#goog-gt-tt .close-button { display: none; }
+
+#goog-gt-tt .logo { float: left; margin: 0px; }
+
+#goog-gt-tt .activity-links { display: inline-block; }
+
+#goog-gt-tt .started-activity-container { display: none; width: 100%; }
+
+#goog-gt-tt .activity-root { margin-top: 20px; }
+
+#goog-gt-tt .left { float: left; }
+
+#goog-gt-tt .right { float: right; }
+
+#goog-gt-tt .bottom { min-height: 15px; position: relative; height: 1%; }
+
+#goog-gt-tt .status-message { background: rgb(41, 145, 13); border-radius: =
+4px; box-shadow: rgb(30, 102, 9) 0px 2px 2px inset; color: white; font-size=
+: 9pt; font-weight: bolder; margin-top: 12px; padding: 6px; text-shadow: rg=
+b(30, 102, 9) 1px 1px 1px; }
+
+#goog-gt-tt .activity-link { color: rgb(17, 85, 204); cursor: pointer; font=
+-family: arial; font-size: 11px; margin-right: 15px; text-decoration: none;=
+ }
+
+#goog-gt-tt textarea { font-family: arial; resize: vertical; width: 100%; m=
+argin-bottom: 10px; border-radius: 1px; border-width: 1px; border-style: so=
+lid; border-color: silver rgb(217, 217, 217) rgb(217, 217, 217); border-ima=
+ge: initial; font-size: 13px; height: auto; overflow-y: auto; padding: 1px;=
+ }
+
+#goog-gt-tt textarea:focus { box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px ins=
+et; border: 1px solid rgb(77, 144, 254); outline: none; }
+
+#goog-gt-tt .activity-cancel { margin-right: 10px; }
+
+#goog-gt-tt .translate-form { min-height: 25px; vertical-align: middle; pad=
+ding-top: 8px; }
+
+#goog-gt-tt .translate-form .activity-form { margin-bottom: 0px; }
+
+#goog-gt-tt .translate-form .activity-form input { display: inline-block; m=
+in-width: 54px; border: 1px solid rgba(0, 0, 0, 0.1); text-align: center; c=
+olor: rgb(68, 68, 68); font-size: 11px; font-weight: bold; height: 27px; ou=
+tline: 0px; padding: 0px 8px; vertical-align: middle; line-height: 27px; ma=
+rgin: 0px 16px 0px 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px; border-=
+radius: 2px; transition: all 0.218s ease 0s; background-color: rgb(245, 245=
+, 245); background-image: -webkit-linear-gradient(top, rgb(245, 245, 245), =
+rgb(241, 241, 241)); user-select: none; cursor: default; }
+
+#goog-gt-tt .translate-form .activity-form input:hover { border: 1px solid =
+rgb(198, 198, 198); color: rgb(34, 34, 34); transition: all 0s ease 0s; bac=
+kground-color: rgb(248, 248, 248); background-image: -webkit-linear-gradien=
+t(top, rgb(248, 248, 248), rgb(241, 241, 241)); }
+
+#goog-gt-tt .translate-form .activity-form input:active { border: 1px solid=
+ rgb(198, 198, 198); color: rgb(51, 51, 51); background-color: rgb(246, 246=
+, 246); background-image: -webkit-linear-gradient(top, rgb(246, 246, 246), =
+rgb(241, 241, 241)); }
+
+#goog-gt-tt .translate-form .activity-form input:focus, #goog-gt-tt .transl=
+ate-form .activity-form input.focus { outline: none; border: 1px solid rgb(=
+77, 144, 254); z-index: 4 !important; }
+
+#goog-gt-tt .translate-form .activity-form input.selected { background-colo=
+r: rgb(238, 238, 238); background-image: -webkit-linear-gradient(top, rgb(2=
+38, 238, 238), rgb(224, 224, 224)); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px =
+2px inset; border: 1px solid rgb(204, 204, 204); color: rgb(51, 51, 51); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit { color: w=
+hite; border-color: rgb(48, 121, 237); background-color: rgb(77, 144, 254);=
+ background-image: -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(71, =
+135, 237)); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit:hover #goo=
+g-gt-tt .translate-form .activity-form input.activity-submit:focus, #goog-g=
+t-tt .translate-form .activity-form input.activity-submit.focus #goog-gt-tt=
+ .translate-form .activity-form input.activity-submit:active { border-color=
+: rgb(48, 121, 237); background-color: rgb(53, 122, 232); background-image:=
+ -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(53, 122, 232)); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit:hover { bo=
+x-shadow: rgb(255, 255, 255) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.1) 0px =
+1px 1px; }
+
+#goog-gt-tt .translate-form .activity-form input:focus, #goog-gt-tt .transl=
+ate-form .activity-form input.focus, #goog-gt-tt .translate-form .activity-=
+form input:active, #goog-gt-tt .translate-form .activity-form input:hover, =
+#goog-gt-tt .translate-form .activity-form input.activity-submit:focus, #go=
+og-gt-tt .translate-form .activity-form input.activity-submit.focus, #goog-=
+gt-tt .translate-form .activity-form input.activity-submit:active, #goog-gt=
+-tt .translate-form .activity-form input.activity-submit:hover { border-col=
+or: rgb(48, 121, 237); }
+
+#goog-gt-tt .gray { color: rgb(153, 153, 153); font-family: arial, sans-ser=
+if; }
+
+#goog-gt-tt .alt-helper-text { color: rgb(153, 153, 153); font-size: 11px; =
+font-family: arial, sans-serif; margin: 15px 0px 5px; }
+
+#goog-gt-tt .alt-error-text { color: rgb(136, 0, 0); display: none; font-si=
+ze: 9pt; }
+
+.goog-text-highlight { background-color: rgb(201, 215, 241); box-shadow: rg=
+b(153, 153, 170) 2px 2px 4px; box-sizing: border-box; position: relative; }
+
+#goog-gt-tt .alt-menu.goog-menu { background: rgb(255, 255, 255); border: 1=
+px solid rgb(221, 221, 221); box-shadow: rgb(153, 153, 170) 0px 2px 4px; mi=
+n-width: 0px; outline: none; padding: 0px; position: absolute; z-index: 200=
+0; }
+
+#goog-gt-tt .alt-menu .goog-menuitem { cursor: pointer; padding: 2px 5px 5p=
+x; margin-right: 0px; border-style: none; }
+
+#goog-gt-tt .alt-menu div.goog-menuitem:hover { background: rgb(221, 221, 2=
+21); }
+
+#goog-gt-tt .alt-menu .goog-menuitem h1 { font-size: 100%; font-weight: bol=
+d; margin: 4px 0px; }
+
+#goog-gt-tt .alt-menu .goog-menuitem strong { color: rgb(52, 90, 173); }
+
+#goog-gt-tt .goog-submenu-arrow { text-align: right; position: absolute; ri=
+ght: 0px; left: auto; }
+
+#goog-gt-tt .goog-menuitem-rtl .goog-submenu-arrow { text-align: left; posi=
+tion: absolute; left: 0px; right: auto; }
+
+#goog-gt-tt .gt-hl-text, #goog-gt-tt .trans-target-highlight { background-c=
+olor: rgb(241, 234, 0); border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.5) =
+3px 3px 4px; box-sizing: border-box; color: rgb(241, 234, 0); cursor: point=
+er; margin: -2px -2px -2px -3px; padding: 2px 2px 2px 3px; position: relati=
+ve; }
+
+#goog-gt-tt .trans-target-highlight { color: rgb(34, 34, 34); }
+
+#goog-gt-tt .gt-hl-layer { color: white; position: absolute !important; }
+
+#goog-gt-tt .trans-target, #goog-gt-tt .trans-target .trans-target-highligh=
+t { background-color: rgb(201, 215, 241); border-radius: 4px 4px 0px 0px; b=
+ox-shadow: rgba(0, 0, 0, 0.5) 3px 3px 4px; box-sizing: border-box; cursor: =
+pointer; margin: -2px -2px -2px -3px; padding: 2px 2px 3px 3px; position: r=
+elative; }
+
+#goog-gt-tt span:focus { outline: none; }
+
+#goog-gt-tt .trans-edit { background-color: transparent; border: 1px solid =
+rgb(77, 144, 254); border-radius: 0em; margin: -2px; padding: 1px; }
+
+#goog-gt-tt .gt-trans-highlight-l { border-left: 2px solid red; margin-left=
+: -2px; }
+
+#goog-gt-tt .gt-trans-highlight-r { border-right: 2px solid red; margin-rig=
+ht: -2px; }
+
+#goog-gt-tt #alt-input { padding: 2px; }
+
+#goog-gt-tt #alt-input-text { font-size: 11px; padding: 2px 2px 3px; margin=
+: 0px; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); border=
+-width: 1px; border-style: solid; border-color: rgb(192, 192, 192) rgb(217,=
+ 217, 217) rgb(217, 217, 217); border-image: initial; display: inline-block=
+; vertical-align: top; height: 21px; box-sizing: border-box; border-radius:=
+ 1px; }
+
+#goog-gt-tt #alt-input-text:hover { border-width: 1px; border-style: solid;=
+ border-color: rgb(160, 160, 160) rgb(185, 185, 185) rgb(185, 185, 185); bo=
+rder-image: initial; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px inset; }
+
+#goog-gt-tt #alt-input-text:focus { box-shadow: rgba(0, 0, 0, 0.3) 0px 1px =
+2px inset; outline: none; border: 1px solid rgb(77, 144, 254); }
+
+#goog-gt-tt #alt-input-submit { font-size: 11px; padding: 2px 6px 3px; marg=
+in: 0px 0px 0px 2px; height: 21px; }
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.gstatic.com/images/branding/product/2x/translate_24dp.png
+
+iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAG/klEQVR4Ae2Y1XMjSR6Ee5+P8d9Z
+Zt6BQ/tMy8xoHDDbO8zMzIxmGIvZzDAkGM9zXuVJ1VaHSlZUXMiHivjUNegvq/InaOPf5fH/B4BH
+8teF8xc1RieWrHqIJT/OsTjBogRvNKbyekOc1xK8t3bmpwIj25iL3DV38ykuWawSlySLJ5DiryZ4
+uWLoDYGRbczFoob4zkus8uoAr88T4MUV000CI9uYi8y7rxGA1D/E30odvxQY2cRcSGGFfIYAFFcH
+eOGHvqUCI5uYC1359P2XARamRuZCJa5fH2uAhaiRuVCLq+Uz12eOF78fXCIwsoW5SC8u5fV3/xVB
+/rr7sNl7MTAwhvGJKUxNTWF6eppXk8nJSZCJiYkUxsfHTcbGxiaHhkb/JDAk5kKK6surd18GIEcu
+uOEPDAoJCk9jZmaGISSWIFbUoXp7+/8sMIghF2pxDXnF7kuW7RlEe4cTff3DQsoSgOLaAYaHh8cE
+BjHkwiqrls/fNIv9zTF4hyK4czeMu/fC8Iv1/pYY8jbOKnef5K65g+YWO+x2L0bHJiiuF0CNQQy5
+mE+cVJ9+gJm7EYTDYSXTd8IoO/IgRf7lOhKvUVe3G15vQHR5XDuAYi4MYsgFJVVI+ftJssGRCE53
+x4hYx0OFRsIoECf0qkKesEatbQ44XV4EAiGKLEwA1kbuPCvTcDZm6T3XdadjyF0/m3b3XxLkrJY1
+8sDnD4pB7KVEenn9AOoB3Sc6T3my7qKoiHpo08rLAOTIedbIBY/Hj2AwxBB8adTuvzIAZVVwYCk/
+PBVhOH15SXKNnPEahUIh9PX1MUR2AlCSrzYMcN0VTRFPN9CXHVGrPKmN16ip2Q6bLV6jYDBepcLi
+ahSVNWjURxEgpRqKAFI8U4Ab7miKvOTweZdZo0BgLkBBcQ1PQiH/TwbwDMYrNCIrlFSZ+jMxkw2X
+5mbleEcsbYDXv7+Gv35RjdxvKpH/fRUKfiDVRASpwZvl9XirolFc5ygqb8gcgFIq9jbNia2/9ED2
+PKXzm6/M/b3Kkw+U8i8KXl4xghwRIO8bIV5M6SoUltSgiJSKAGW1DGGRJ1JeOwBfHqdvh82X0VXn
++UpkHVYKy6qNTIbxRuOsUl5y+JwLnV0uuN0+s0aEA01qtuwVM1GP01ebKU40Aih2eMVx6xtZ72gE
+Z29FcaY7Cv+w9d15mfi788m/UDOLit2DaGm1ocfmgs8XsASwu9ziJOrESdQh0NunklcHsEqrQ0zF
+T0LJbXECDWdiUjqtPPnLqjv4tnY7cr+qxKpdh/lqZAZYs/sQONCNOw5iYGCAg60bwNJtC39dN4vd
+N2NwD0SEcPwDnU+cwMGWKAo3P8woL3lesPlQO3K+qkb+d1W40dYJBmjq6AYHmSfQbXOgv78fg4OD
+GB0dzRxASmbiJRW1evKkfPcAqtcfQM7XK/FF9XrYnW58UbMWfDXacvAk5QlPgVhD6AZ4KT0q8Qzy
+hDW6i6vXu/HJ8jXIEy+n75TXIV/If12/AcFQSAaQISwnwVoJDGLIhVVMT1pLXlI9i0PnXDh3pRV5
+31UL+HJai+4eO2eB4rxaAgwNDTGEfgAprS+eXp6U7uhHaeMOUaNKMEDeD1ViqA9yHtIGICMjI8Qg
+hlyo5fTEdeTJq5Xj+OOnlSj8rhb7Tl7A26yRCPHjzoMIhXrTBZAYxJALfWldcSvPJfjTV1tw8lwT
++NnoekunCFEPzkLD9gMMoR9AKashriNPvtjoR2ubHY7ER+zrrR1ioBvAELXb9rNOMoBEHcAqpi8t
+xXXkn60SJ9B4F03NNvMjNr8j3BAh3q6oB2eiZts+eQrzB3huZXhKV1hf3CovOXjWiY5OZ/I3NRGi
+E2+V1WHn0TMyAEkf4IWVkzlqQQ1pUq0n/4ygdOcAWlrtcLp8rJHlc5EcZJI2gOSp7waKnll+d+r5
+qghUPDcflak8Wxm28MxKK08n+GP9NJpbHLDZPZYA8koyB8gCXxZfW/74aydBHnv1hJVXErx8Al9X
+XEJruwMOh1d+vLbwLwvwzufHfv/EorOw8EYSr59F8Ypr4KtQ9y1+zQxwBjjIFOdVFUBiED5llbwP
+L915cul5/IMlSSw+j5LqG2jvcKC7xwWXywufjwGCFCeqAGRhA5RUNRU/JYQtCPmyqhtoa7ehu5vV
+4S1HP+tDaYZQBSALH+Cbb6785qklFyB5ctF5lFZx5+24dcsJynu8Pvj9AYoTVQCy8AEkeR9dvsPK
+UL4kaeftdhfcHlaHux8glM9UI57UpMAgfMo63y2/Vix3vrWtB11ddlDe5faI6vhEAJ6APyUAr6oA
+Fy935AsMwqeswxqVVF5BU1MnWlu7RIAe2OzsvhMuF+9OiBp5GMabQlI4/v2p8xfbCgzDeMT4/+Pf
+5PF339yL/IxXqK4AAAAASUVORK5CYII=
+
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://annimon.github.io/16384/meta/icon_pp.svg
+
+<?xml version=3D"1.0" encoding=3D"utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version:=
+ 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/=
+SVG/1.1/DTD/svg11.dtd">
+<svg version=3D"1.1" id=3D"Layer_1" xmlns=3D"http://www.w3.org/2000/svg" xm=
+lns:xlink=3D"http://www.w3.org/1999/xlink" x=3D"0px" y=3D"0px"
+	 width=3D"20px" height=3D"20px" viewBox=3D"0 0 20 20" enable-background=3D=
+"new 0 0 20 20" xml:space=3D"preserve">
+<g>
+	<circle fill=3D"#FFFFFF" cx=3D"10" cy=3D"10" r=3D"10"/>
+</g>
+<path fill-rule=3D"evenodd" clip-rule=3D"evenodd" fill=3D"#195A7F" d=3D"M12=
+.3,4.8h-5L5,15h3l0.7-3.4h2.1c2,0,3.7-1.2,4.2-3.4
+	C15.5,5.9,13.8,4.8,12.3,4.8z M12.2,8.3c-0.2,0.8-0.9,1.4-1.7,1.4H9.1l0.6-2.=
+8h1.4C11.9,6.9,12.4,7.5,12.2,8.3z"/>
+</svg>
+
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+
+R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://annimon.github.io/16384/meta/icon_bitcoin.svg
+
+<?xml version=3D"1.0" encoding=3D"utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version:=
+ 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/=
+SVG/1.1/DTD/svg11.dtd">
+<svg version=3D"1.1" id=3D"Layer_1" xmlns=3D"http://www.w3.org/2000/svg" xm=
+lns:xlink=3D"http://www.w3.org/1999/xlink" x=3D"0px" y=3D"0px"
+	 width=3D"20px" height=3D"20px" viewBox=3D"0 0 20 20" enable-background=3D=
+"new 0 0 20 20" xml:space=3D"preserve">
+<g>
+	<path fill=3D"#DDB802" d=3D"M10,19.5c-5.2,0-9.5-4.3-9.5-9.5S4.8,0.5,10,0.5=
+s9.5,4.3,9.5,9.5S15.2,19.5,10,19.5z"/>
+	<path fill=3D"#FFED95" d=3D"M10,1c5,0,9,4,9,9c0,5-4,9-9,9c-5,0-9-4-9-9C1,5=
+,5,1,10,1 M10,0C4.5,0,0,4.5,0,10c0,5.5,4.5,10,10,10
+		c5.5,0,10-4.5,10-10C20,4.5,15.5,0,10,0L10,0z"/>
+</g>
+<path fill=3D"#FFFFFF" d=3D"M15,8.5c0.2-1.4-0.9-2.2-2.5-2.7l0.5-2l-1.3-0.3l=
+-0.5,1.9c-0.3-0.1-0.7-0.2-1-0.2l0.5-1.9L9.4,3L8.9,5
+	C8.6,4.9,8.3,4.8,8.1,4.8l0,0L6.3,4.4L6,5.6c0,0,0.9,0.2,0.9,0.2C7.4,6,7.5,6=
+.3,7.5,6.5L6.9,8.8c0,0,0.1,0,0.1,0c0,0-0.1,0-0.1,0
+	l-0.8,3.1C6,12,5.9,12.3,5.5,12.2c0,0-0.9-0.2-0.9-0.2L4,13.3l1.6,0.4c0.3,0.=
+1,0.6,0.1,0.9,0.2l-0.5,2l1.3,0.3l0.5-2
+	c0.3,0.1,0.7,0.2,1,0.2l-0.5,1.9l1.3,0.3l0.5-2c2.2,0.4,3.8,0.2,4.5-1.6c0.6-=
+1.5,0-2.3-1.2-2.9C14.2,10.1,14.8,9.6,15,8.5L15,8.5z
+	 M12.1,12.3c-0.4,1.5-3,0.7-3.9,0.5l0.7-2.6C9.7,10.4,12.5,10.8,12.1,12.3z M=
+12.5,8.5C12.1,9.9,9.9,9.2,9.2,9l0.6-2.4
+	C10.5,6.8,12.8,7.1,12.5,8.5z"/>
+</svg>
+
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.gstatic.com/images/branding/product/1x/translate_24dp.png
+
+iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAADAElEQVR4Ab2TA5djWRRGaxlj/51h
+27Zt23xltG3btrtj2zbHM9/c87LuvKCNumvtYrL3zTlJVaucIeuz/bs3pv/s1ZRHT0YPTmMe3Rnd
+GvLoypiwPvzxWwVI3rs5j1cFOq32dHurAIm5nJDkpYHOq2O33irAxS+8PaeesfTW528c+F/6gttz
+OVFz1AebzQu/P4BQKIRgMCgSCARE/H4/8YfF7upZGmiUKJfzQBfGsPUJPJPp4PX6mTjE5eUB+Hy+
+36VAmXjt6Sz0rhRi8SSM7Pvqk1lRTnSuy+PUVR10OjOT+F8YIKR3UbH8VBaJZBKH72ew9GgWh++l
+Mf9QjstF1hxwQSbTwGy2kvTVARoFR+9M4fjDdMnci+WdGENa4nj8RAWt1sD2YSPZ80YkBUjGobGs
+OZUVxTtvZJBMJkUMrhTJC9TSmLRQqfUwGIwYuaSW7cTLqQyQjEOik48y4q0Hb8hh0q4cHuhTuKdL
+cTk6MnouvoEhcwQMW7AWIxYJGLW0FmNWNGDMysbKAMk4tFDawZEHaSw/nsUhtgv6fRn7mcuJQc1x
+bNl/GvceydguzBC27sPJSzdIzJECfL4citAu4okkjO4UhNOl8g41ObRnCNuuYEH9dpy7fhszq9ez
+kAVOp/PFgU7l1EqUy4lV+5yYV7MVIxbW4Mb9x7RwEZfLRbuQAqXSF4olOVGdQ/+GKEYvbMDMtRuw
+8cAxWK1WMeBwOOiVSIEXSEvE5XKiHaNhzy08fabCwqatLHKCBwgp0LY2/UfHNxQTbYUcVrIxyeQa
+qDV6LG7ejqt3HsBut5cGugnBPr+sjv/eXsiA066ctWmRtgXQZk2Bgc0RKJRaGI0mmMzmkjFVvemZ
+Mv/Mdz/2PIcfehT4vvs5rKi9Jd7eZDLDYrEQbx+gM3zKlehPvS6BWFF3G3I2Hq2OAib6PPAAjent
+AouEO4t/7s3ktYXlKpUa6MoChTHZf3+rwLx5175aUXMLDx/JIJMpoVZrodVqodfrRQwGAwV/v3L9
+ab+q1jj/Aa5bwO+xfluQAAAAAElFTkSuQmCC
+
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----
+Content-Type: text/html
+Content-ID: <frame-011786CA0F2442F7446A289BA12EEE17@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://platform.twitter.com/widgets/widget_iframe.2d7d9a6d04538bf11c7b23641e75738c.html?origin=https%3A%2F%2Fannimon.github.io
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><meta chartset=3D"utf-8">
+<title>Twitter Widget Iframe</title>
+</head><body>
+
+
+</body></html>
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----
+Content-Type: text/html
+Content-ID: <frame-47FC325F46929EEB226119516E0137BF@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://platform.twitter.com/widgets/tweet_button.2d7d9a6d04538bf11c7b23641e75738c.en.html#dnt=false&id=twitter-widget-0&lang=en&original_referer=https%3A%2F%2Fannimon.github.io%2F16384%2F&size=m&text=Check%20out%202048%2C%20a%20game%20where%20you%20join%20numbers%20to%20score%20high!%20%232048game&time=1601315821550&type=share&url=https%3A%2F%2Fannimon.github.io%2F16384%2F&via=gabrielecirulli
+
+<!DOCTYPE html><html data-scribe=3D"page:button" lang=3D"en"><head><meta ht=
+tp-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-c5d2dea2-68f4-46ac-8d9a-5=
+22a442c6a31@mhtml.blink" />
+ =20
+  <link rel=3D"dns-prefetch" href=3D"https://twitter.com/">
+  <title>Tweet Button</title>
+  <base target=3D"_blank">
+ =20
+</head>
+<body data-scribe=3D"section:share" class=3D" regular ltr ready">
+<div id=3D"widget">
+  <div class=3D"btn-o" data-scribe=3D"component:button" style=3D"width: 60p=
+x;"><a href=3D"https://twitter.com/intent/tweet?original_referer=3Dhttps%3A=
+%2F%2Fannimon.github.io%2F16384%2F&amp;ref_src=3Dtwsrc%5Etfw&amp;text=3DChe=
+ck%20out%202048%2C%20a%20game%20where%20you%20join%20numbers%20to%20score%2=
+0high!%20%232048game&amp;tw_p=3Dtweetbutton&amp;url=3Dhttps%3A%2F%2Fannimon=
+.github.io%2F16384%2F&amp;via=3Dgabrielecirulli" class=3D"btn" id=3D"b"><i>=
+</i><span class=3D"label" id=3D"l">Tweet</span></a></div>
+</div>
+
+
+
+</body></html>
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c5d2dea2-68f4-46ac-8d9a-522a442c6a31@mhtml.blink
+
+@charset "utf-8";
+
+html { margin: 0px; padding: 0px; font: 11px / 18px "Helvetica Neue", Arial=
+, sans-serif; color: rgb(51, 51, 51); user-select: none; }
+
+body { margin: 0px; padding: 0px; background: 0px 0px; }
+
+a { outline: 0px; text-decoration: none; }
+
+body.rtl { direction: rtl; }
+
+#widget { display: inline-block; white-space: nowrap; overflow: hidden; tex=
+t-align: left; }
+
+#count, .btn, .btn .label, .btn-o, .count-o { display: inline-block; vertic=
+al-align: top; zoom: 1; }
+
+.btn-o { max-width: 100%; }
+
+.btn { position: relative; height: 20px; box-sizing: border-box; padding: 1=
+px 8px 1px 6px; background-color: rgb(27, 149, 224); color: rgb(255, 255, 2=
+55); border-radius: 3px; font-weight: 500; cursor: pointer; }
+
+.rtl .btn { padding: 1px 6px 1px 8px; }
+
+.btn:active, .btn:focus, .btn:hover { background-color: rgb(12, 122, 191); =
+}
+
+.btn:active { box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 5px inset; }
+
+.xl .btn:active { box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 7px inset; }
+
+.btn i { position: relative; top: 2px; display: inline-block; width: 14px; =
+height: 14px; background: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%=
+3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2072%2072%22%3E%3Cp=
+ath%20fill%3D%22none%22%20d%3D%22M0%200h72v72H0z%22%2F%3E%3Cpath%20class%3D=
+%22icon%22%20fill%3D%22%23fff%22%20d%3D%22M68.812%2015.14c-2.348%201.04-4.8=
+7%201.744-7.52%202.06%202.704-1.62%204.78-4.186%205.757-7.243-2.53%201.5-5.=
+33%202.592-8.314%203.176C56.35%2010.59%2052.948%209%2049.182%209c-7.23%200-=
+13.092%205.86-13.092%2013.093%200%201.026.118%202.02.338%202.98C25.543%2024=
+.527%2015.9%2019.318%209.44%2011.396c-1.125%201.936-1.77%204.184-1.77%206.5=
+8%200%204.543%202.312%208.552%205.824%2010.9-2.146-.07-4.165-.658-5.93-1.64=
+-.002.056-.002.11-.002.163%200%206.345%204.513%2011.638%2010.504%2012.84-1.=
+1.298-2.256.457-3.45.457-.845%200-1.666-.078-2.464-.23%201.667%205.2%206.5%=
+208.985%2012.23%209.09-4.482%203.51-10.13%205.605-16.26%205.605-1.055%200-2=
+.096-.06-3.122-.184%205.794%203.717%2012.676%205.882%2020.067%205.882%2024.=
+083%200%2037.25-19.95%2037.25-37.25%200-.565-.013-1.133-.038-1.693%202.558-=
+1.847%204.778-4.15%206.532-6.774z%22%2F%3E%3C%2Fsvg%3E") 0px 0px no-repeat =
+transparent; }
+
+.btn .label { margin-left: 3px; white-space: nowrap; }
+
+.btn .label b { font-weight: 500; white-space: nowrap; }
+
+.rtl .btn .label { margin-right: 3px; }
+
+.rtl .btn .label b { display: inline-block; direction: ltr; }
+
+.xl { font-size: 13px; line-height: 26px; }
+
+.xl .btn { height: 28px; border-radius: 4px; padding: 1px 10px 1px 9px; }
+
+.rtl.xl .btn { padding: 1px 9px 1px 10px; }
+
+.xl .btn i { top: 4px; height: 18px; width: 18px; }
+
+.xl .btn .label { margin-left: 4px; }
+
+.rtl.xl .btn .label { margin-right: 4px; }
+
+.aria { position: absolute; left: -999em; }
+
+.rtl .aria { left: auto; right: -999em; }
+
+.count-o { position: relative; background: rgb(255, 255, 255); border: 1px =
+solid rgb(135, 153, 166); border-radius: 3px; visibility: hidden; min-heigh=
+t: 18px; min-width: 15px; text-align: center; }
+
+#count { white-space: nowrap; color: rgb(41, 47, 51); }
+
+#count:focus, #count:hover { color: rgb(51, 51, 51); text-decoration: under=
+line; }
+
+.ncount .count-o { display: none; }
+
+.count-ready .count-o { visibility: visible; }
+
+.count-o i, .count-o u { position: absolute; zoom: 1; line-height: 0; width=
+: 0px; height: 0px; left: 0px; top: 50%; margin: -4px 0px 0px -4px; border-=
+width: 4px 4px 4px 0px; border-top-style: solid; border-right-style: solid;=
+ border-bottom-style: solid; border-top-color: transparent; border-bottom-c=
+olor: transparent; border-image: initial; border-right-color: rgb(102, 117,=
+ 127); border-left-style: initial; border-left-color: initial; }
+
+.count-o u { margin-left: -3px; border-right-color: rgb(255, 255, 255); }
+
+.rtl .count-o i, .rtl .count-o u { left: auto; right: 0px; margin: -4px -4p=
+x 0px 0px; border-width: 4px 0px 4px 4px; border-top-style: solid; border-b=
+ottom-style: solid; border-left-style: solid; border-top-color: transparent=
+; border-bottom-color: transparent; border-image: initial; border-left-colo=
+r: rgb(102, 117, 127); border-right-style: initial; border-right-color: ini=
+tial; }
+
+.rtl .count-o u { margin-right: -3px; border-left-color: rgb(255, 255, 255)=
+; }
+
+.hcount .count-o { margin: 0px 0px 0px 5px; }
+
+.hcount.rtl .count-o { margin: 0px 5px 0px 0px; }
+
+.hcount #count { padding: 0px 5px; }
+
+.xl .count-o { font-size: 11px; border-radius: 4px; }
+
+.xl.hcount .count-o { margin: 0px 0px 0px 6px; }
+
+.xl.rtl.hcount .count-o { margin: 0px 6px 0px 0px; }
+
+.xl.hcount .count-o i, .xl.hcount .count-o u { margin: -5px 0px 0px -5px; b=
+order-width: 5px 5px 5px 0px; }
+
+.xl.hcount .count-o u { margin-left: -4px; }
+
+.xl.rtl.hcount .count-o i, .xl.rtl.hcount .count-o u { margin: -5px -5px 0p=
+x 0px; border-width: 5px 0px 5px 5px; }
+
+.xl.rtl.hcount .count-o u { margin-right: -4px; }
+
+.xl #count { padding: 0px 7px; }
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----
+Content-Type: text/html
+Content-ID: <frame-E22E454D600EF563A121BC68BE46AE3D@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://platform.twitter.com/widgets/tweet_button.2d7d9a6d04538bf11c7b23641e75738c.en.html#dnt=false&id=twitter-widget-1&lang=en&original_referer=https%3A%2F%2Fannimon.github.io%2F16384%2F&size=m&text=I%20scored%20200472%20points%20at%202048%2C%20a%20game%20where%20you%20join%20numbers%20to%20score%20high!%20%232048game&time=1601317614875&type=share&url=https%3A%2F%2Fannimon.github.io%2F16384%2F&via=gabrielecirulli
+
+<!DOCTYPE html><html data-scribe=3D"page:button" lang=3D"en"><head><meta ht=
+tp-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-8cdb6477-8aa7-4719-965f-b=
+b2199e49d33@mhtml.blink" />
+ =20
+  <link rel=3D"dns-prefetch" href=3D"https://twitter.com/">
+  <title>Tweet Button</title>
+  <base target=3D"_blank">
+ =20
+</head>
+<body data-scribe=3D"section:share" class=3D" regular ltr ready">
+<div id=3D"widget">
+  <div class=3D"btn-o" data-scribe=3D"component:button" style=3D"width: 60p=
+x;"><a href=3D"https://twitter.com/intent/tweet?original_referer=3Dhttps%3A=
+%2F%2Fannimon.github.io%2F16384%2F&amp;ref_src=3Dtwsrc%5Etfw&amp;text=3DI%2=
+0scored%20200472%20points%20at%202048%2C%20a%20game%20where%20you%20join%20=
+numbers%20to%20score%20high!%20%232048game&amp;tw_p=3Dtweetbutton&amp;url=
+=3Dhttps%3A%2F%2Fannimon.github.io%2F16384%2F&amp;via=3Dgabrielecirulli" cl=
+ass=3D"btn" id=3D"b"><i></i><span class=3D"label" id=3D"l">Tweet</span></a>=
+</div>
+</div>
+
+
+
+</body></html>
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-8cdb6477-8aa7-4719-965f-bb2199e49d33@mhtml.blink
+
+@charset "utf-8";
+
+html { margin: 0px; padding: 0px; font: 11px / 18px "Helvetica Neue", Arial=
+, sans-serif; color: rgb(51, 51, 51); user-select: none; }
+
+body { margin: 0px; padding: 0px; background: 0px 0px; }
+
+a { outline: 0px; text-decoration: none; }
+
+body.rtl { direction: rtl; }
+
+#widget { display: inline-block; white-space: nowrap; overflow: hidden; tex=
+t-align: left; }
+
+#count, .btn, .btn .label, .btn-o, .count-o { display: inline-block; vertic=
+al-align: top; zoom: 1; }
+
+.btn-o { max-width: 100%; }
+
+.btn { position: relative; height: 20px; box-sizing: border-box; padding: 1=
+px 8px 1px 6px; background-color: rgb(27, 149, 224); color: rgb(255, 255, 2=
+55); border-radius: 3px; font-weight: 500; cursor: pointer; }
+
+.rtl .btn { padding: 1px 6px 1px 8px; }
+
+.btn:active, .btn:focus, .btn:hover { background-color: rgb(12, 122, 191); =
+}
+
+.btn:active { box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 5px inset; }
+
+.xl .btn:active { box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 7px inset; }
+
+.btn i { position: relative; top: 2px; display: inline-block; width: 14px; =
+height: 14px; background: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%=
+3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2072%2072%22%3E%3Cp=
+ath%20fill%3D%22none%22%20d%3D%22M0%200h72v72H0z%22%2F%3E%3Cpath%20class%3D=
+%22icon%22%20fill%3D%22%23fff%22%20d%3D%22M68.812%2015.14c-2.348%201.04-4.8=
+7%201.744-7.52%202.06%202.704-1.62%204.78-4.186%205.757-7.243-2.53%201.5-5.=
+33%202.592-8.314%203.176C56.35%2010.59%2052.948%209%2049.182%209c-7.23%200-=
+13.092%205.86-13.092%2013.093%200%201.026.118%202.02.338%202.98C25.543%2024=
+.527%2015.9%2019.318%209.44%2011.396c-1.125%201.936-1.77%204.184-1.77%206.5=
+8%200%204.543%202.312%208.552%205.824%2010.9-2.146-.07-4.165-.658-5.93-1.64=
+-.002.056-.002.11-.002.163%200%206.345%204.513%2011.638%2010.504%2012.84-1.=
+1.298-2.256.457-3.45.457-.845%200-1.666-.078-2.464-.23%201.667%205.2%206.5%=
+208.985%2012.23%209.09-4.482%203.51-10.13%205.605-16.26%205.605-1.055%200-2=
+.096-.06-3.122-.184%205.794%203.717%2012.676%205.882%2020.067%205.882%2024.=
+083%200%2037.25-19.95%2037.25-37.25%200-.565-.013-1.133-.038-1.693%202.558-=
+1.847%204.778-4.15%206.532-6.774z%22%2F%3E%3C%2Fsvg%3E") 0px 0px no-repeat =
+transparent; }
+
+.btn .label { margin-left: 3px; white-space: nowrap; }
+
+.btn .label b { font-weight: 500; white-space: nowrap; }
+
+.rtl .btn .label { margin-right: 3px; }
+
+.rtl .btn .label b { display: inline-block; direction: ltr; }
+
+.xl { font-size: 13px; line-height: 26px; }
+
+.xl .btn { height: 28px; border-radius: 4px; padding: 1px 10px 1px 9px; }
+
+.rtl.xl .btn { padding: 1px 9px 1px 10px; }
+
+.xl .btn i { top: 4px; height: 18px; width: 18px; }
+
+.xl .btn .label { margin-left: 4px; }
+
+.rtl.xl .btn .label { margin-right: 4px; }
+
+.aria { position: absolute; left: -999em; }
+
+.rtl .aria { left: auto; right: -999em; }
+
+.count-o { position: relative; background: rgb(255, 255, 255); border: 1px =
+solid rgb(135, 153, 166); border-radius: 3px; visibility: hidden; min-heigh=
+t: 18px; min-width: 15px; text-align: center; }
+
+#count { white-space: nowrap; color: rgb(41, 47, 51); }
+
+#count:focus, #count:hover { color: rgb(51, 51, 51); text-decoration: under=
+line; }
+
+.ncount .count-o { display: none; }
+
+.count-ready .count-o { visibility: visible; }
+
+.count-o i, .count-o u { position: absolute; zoom: 1; line-height: 0; width=
+: 0px; height: 0px; left: 0px; top: 50%; margin: -4px 0px 0px -4px; border-=
+width: 4px 4px 4px 0px; border-top-style: solid; border-right-style: solid;=
+ border-bottom-style: solid; border-top-color: transparent; border-bottom-c=
+olor: transparent; border-image: initial; border-right-color: rgb(102, 117,=
+ 127); border-left-style: initial; border-left-color: initial; }
+
+.count-o u { margin-left: -3px; border-right-color: rgb(255, 255, 255); }
+
+.rtl .count-o i, .rtl .count-o u { left: auto; right: 0px; margin: -4px -4p=
+x 0px 0px; border-width: 4px 0px 4px 4px; border-top-style: solid; border-b=
+ottom-style: solid; border-left-style: solid; border-top-color: transparent=
+; border-bottom-color: transparent; border-image: initial; border-left-colo=
+r: rgb(102, 117, 127); border-right-style: initial; border-right-color: ini=
+tial; }
+
+.rtl .count-o u { margin-right: -3px; border-left-color: rgb(255, 255, 255)=
+; }
+
+.hcount .count-o { margin: 0px 0px 0px 5px; }
+
+.hcount.rtl .count-o { margin: 0px 5px 0px 0px; }
+
+.hcount #count { padding: 0px 5px; }
+
+.xl .count-o { font-size: 11px; border-radius: 4px; }
+
+.xl.hcount .count-o { margin: 0px 0px 0px 6px; }
+
+.xl.rtl.hcount .count-o { margin: 0px 6px 0px 0px; }
+
+.xl.hcount .count-o i, .xl.hcount .count-o u { margin: -5px 0px 0px -5px; b=
+order-width: 5px 5px 5px 0px; }
+
+.xl.hcount .count-o u { margin-left: -4px; }
+
+.xl.rtl.hcount .count-o i, .xl.rtl.hcount .count-o u { margin: -5px -5px 0p=
+x 0px; border-width: 5px 0px 5px 5px; }
+
+.xl.rtl.hcount .count-o u { margin-right: -4px; }
+
+.xl #count { padding: 0px 7px; }
+------MultipartBoundary--MXR60ngGeemTRsGnUwCfh3Zj0syi1sNkPslw6q2AQS------
